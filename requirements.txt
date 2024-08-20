@@ -2,4 +2,8 @@ pandas
 numpy
 scikit-learn
 matplotlib
+<<<<<<< Updated upstream
+=======
+seaborn
+>>>>>>> Stashed changes
 tsfel
