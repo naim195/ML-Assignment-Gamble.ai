@@ -5,3 +5,4 @@ matplotlib
 tsfel
 joblib
 langchain_groq
+python-dotenv
