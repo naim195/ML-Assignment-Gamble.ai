@@ -3,3 +3,6 @@ numpy
 scikit-learn
 matplotlib
 tsfel
+joblib
+langchain_groq
+python-dotenv
