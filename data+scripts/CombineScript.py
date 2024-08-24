@@ -39,7 +39,6 @@ total_acc_z = pd.read_csv(os.path.join(train_path,"Inertial Signals","total_acc_
 
 # Read the subject IDs
 subject_train = pd.read_csv(os.path.join(train_path,"subject_train.txt"),delim_whitespace=True,header=None)
-
 # Read the labels
 y = pd.read_csv(os.path.join(train_path,"y_train.txt"),delim_whitespace=True,header=None)
 
