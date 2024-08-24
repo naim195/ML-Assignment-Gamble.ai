@@ -1,3 +1,4 @@
 .conda
 data+scripts/human+activity+recognition+using+smartphones
 data+scripts/Combined
+.env
