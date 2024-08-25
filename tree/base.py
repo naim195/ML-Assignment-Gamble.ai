@@ -129,7 +129,7 @@ class DecisionTree:
         return pd.Series(predictions)
     
 
-    def plot(self) -> None:
+    def plot(self, node=None, indent="  ") -> None:
         """
         Function to plot the tree
 

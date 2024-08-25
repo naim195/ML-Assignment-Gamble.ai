@@ -55,6 +55,8 @@ for criteria in ["information_gain", "gini_index"]:
 # Test case 3
 # Discrete Input and Discrete Output
 
+
+
 N = 30
 P = 5
 X = pd.DataFrame({i: pd.Series(np.random.randint(P, size=N), dtype="category") for i in range(5)})
@@ -73,6 +75,7 @@ for criteria in ["information_gain", "gini_index"]:
 
 # Test case 4
 # Discrete Input and Real Output
+
 
 N = 30
 P = 5
